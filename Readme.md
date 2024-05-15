@@ -1,7 +1,7 @@
 # React Test
 
 ## Objective:
-Develop a comprehensive e-commerce application using ReactJS, showcasing your proficiency in building dynamic and interactive web interfaces. Your project should emphasize the creation of reusable components, the utilization of helper functions and partials, and the implementation of custom hooks. Additionally, the application must include a suite of unit tests using either Mocha or Jest, ensuring the reliability and maintainability of the code.
+Develop a comprehensive e-commerce application using ReactJS or Flutter, showcasing your proficiency in building dynamic and interactive web interfaces. Your project should emphasize the creation of reusable components, the utilization of helper functions and partials, and the implementation of custom hooks. Additionally, the application must include a suite of unit tests using either Mocha or Jest, ensuring the reliability and maintainability of the code.
 ## Key Features:
 1. Reusable Components: Design modular and reusable components that can be utilized across various parts of the application. This includes elements like product cards, navigation bars, form controls, and any other common interface elements.
 
